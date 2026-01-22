@@ -1,12 +1,12 @@
-package stayhub_Country.stayhub_Country.service.Impl;
+package com.Angelh0.stayhub_Country.service.Impl;
 
 import org.springframework.stereotype.Service;
-import stayhub_Country.stayhub_Country.dto.ValidateCountryAndCityDTO;
-import stayhub_Country.stayhub_Country.entity.CityEntity;
-import stayhub_Country.stayhub_Country.entity.CountryEntity;
-import stayhub_Country.stayhub_Country.repository.CityRepository;
-import stayhub_Country.stayhub_Country.repository.CountryRepository;
-import stayhub_Country.stayhub_Country.service.CountryService;
+import com.Angelh0.stayhub_Country.dto.ValidateCountryAndCityDTO;
+import com.Angelh0.stayhub_Country.entity.CityEntity;
+import com.Angelh0.stayhub_Country.entity.CountryEntity;
+import com.Angelh0.stayhub_Country.repository.CityRepository;
+import com.Angelh0.stayhub_Country.repository.CountryRepository;
+import com.Angelh0.stayhub_Country.service.CountryService;
 
 import java.util.List;
 
