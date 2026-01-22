@@ -1,4 +1,4 @@
-package stayhub_Country.stayhub_Country.dto;
+package com.Angelh0.stayhub_Country.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

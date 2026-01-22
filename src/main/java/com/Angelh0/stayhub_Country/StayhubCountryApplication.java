@@ -1,4 +1,4 @@
-package stayhub_Country.stayhub_Country;
+package com.Angelh0.stayhub_Country;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

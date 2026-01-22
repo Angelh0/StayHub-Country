@@ -1,4 +1,4 @@
-package stayhub_Country.stayhub_Country.entity;
+package com.Angelh0.stayhub_Country.entity;
 
 
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package stayhub_Country.stayhub_Country.converter;
+package com.Angelh0.stayhub_Country.converter;
 
 import org.springframework.stereotype.Component;
 

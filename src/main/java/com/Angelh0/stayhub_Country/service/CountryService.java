@@ -1,6 +1,6 @@
-package stayhub_Country.stayhub_Country.service;
+package com.Angelh0.stayhub_Country.service;
 
-import stayhub_Country.stayhub_Country.dto.ValidateCountryAndCityDTO;
+import com.Angelh0.stayhub_Country.dto.ValidateCountryAndCityDTO;
 
 public interface CountryService {
 

@@ -1,4 +1,4 @@
-package stayhub_Country.stayhub_Country.dto;
+package com.Angelh0.stayhub_Country.dto;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
